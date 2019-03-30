@@ -7,6 +7,9 @@ https://github.com/freeofwork/996.icu.git
 You can use the command below to clone the repo with write access  
 git clone https://yourname:c0da73b15422d7245201fd21adc99cc64fff1f0f@github.com/freeofwork/996.icu.git  
 
+replace the token with 2119def-c892db0de6-99b7e971fed09a-56e634643 (remove the '-' manually)  
+  
+
 Or import the private key below to use ssh access  
   
 ```
